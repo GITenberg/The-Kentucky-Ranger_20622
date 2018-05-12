@@ -1,0 +1,25 @@
+_repo: The-Kentucky-Ranger_20622
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Curnick, Edward T.
+    gutenberg_agent_id: '9424'
+    url: http://www.gutenberg.org/2009/agents/9424
+description: ''
+gutenberg_issued: '2007-02-19'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '20622'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Kentucky -- Fiction'
+- !lcsh 'Christian fiction'
+- !lcc 'PS'
+title: The Kentucky Ranger
+url: http://www.gutenberg.org/ebooks/20622
