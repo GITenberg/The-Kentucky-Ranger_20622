@@ -9,6 +9,8 @@ creator:
     gutenberg_agent_id: '9424'
     url: http://www.gutenberg.org/2009/agents/9424
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/20622#The-Kentucky-Ranger
 gutenberg_issued: '2007-02-19'
 gutenberg_type: Text
 identifiers:
